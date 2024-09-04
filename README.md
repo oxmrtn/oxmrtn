@@ -6,7 +6,7 @@
 
 <br>
 
-<h2 align="left">I'm good with thiose language</h2>
+<h2 align="left">Learnt those language so far</h2>
 
 ###
 
