@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Here is Martin<br>💻 Student at <a href="https://github.com/42Paris" target="_blank">42 School</a></p>
+<p align="left">I'm Martin<br>💻 Student at <a href="https://github.com/42Paris" target="_blank">42 School</a></p>
 
 <br>
 
