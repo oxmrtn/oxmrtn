@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Martin<br>💻 Student @ <a href="https://github.com/42Paris" target="_blank">42 School</a> && Alumni @<a href="https://math-info.u-paris.fr/" target="_blank">Université Paris Cité</a></p>
+<p align="left">I'm Martin<br>💻 Student @ <a href="https://github.com/42Paris" target="_blank">42 School</a> && Alumni @ <a href="https://math-info.u-paris.fr/" target="_blank">Université Paris Cité</a></p>
 
 <br>
 
